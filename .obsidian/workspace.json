@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/未命名.md",
+                "file": "Embedded_system/CMSIS标准.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "eec680b025a6b0d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "CMSIS标准"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +183,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "eec680b025a6b0d0",
+  "active": "37305f563b6fb20c",
   "lastOpenFiles": [
+    "欢迎.md",
+    "README.md",
+    "Embedded_system/CMSIS标准.md",
+    "Pasted image 20260322005130.png",
+    "Embedded_system/CMSIS/未命名.md",
+    "Embedded_system/CMSIS",
+    "未命名",
     "test/未命名.md",
     "未命名.md",
-    "欢迎.md",
     "test",
     "未命名.base",
     "未命名 1.base",
