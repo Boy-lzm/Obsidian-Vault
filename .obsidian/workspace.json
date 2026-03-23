@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "CMSIS标准"
             }
+          },
+          {
+            "id": "e508fd53fb4e2430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,26 +189,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "37305f563b6fb20c",
+  "active": "e508fd53fb4e2430",
   "lastOpenFiles": [
+    "未来发展.md",
     "欢迎.md",
-    "README.md",
     "Embedded_system/CMSIS标准.md",
+    "未命名",
+    "未来发展规划/未命名.md",
+    "未来发展规划",
+    "README.md",
     "Pasted image 20260322005130.png",
     "Embedded_system/CMSIS/未命名.md",
     "Embedded_system/CMSIS",
-    "未命名",
     "test/未命名.md",
-    "未命名.md",
     "test",
     "未命名.base",
     "未命名 1.base",
