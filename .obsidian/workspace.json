@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded_system/bootloader/上位机.md",
+                "file": "Embedded_system/Flash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "上位机"
+              "title": "Flash"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ff025e74a48ed39d",
@@ -200,8 +200,10 @@
   },
   "active": "e508fd53fb4e2430",
   "lastOpenFiles": [
-    "Embedded_system/bootloader/下位机.md",
     "Embedded_system/bootloader/上位机.md",
+    "Embedded_system/Flash.md",
+    "Embedded_system/bootloader/下位机.md",
+    "Embedded_system/编译器指令.md",
     "Embedded_system/ARM体系架构.md",
     "Embedded_system/bootloader",
     "Embedded_system/Bootloader.md",
