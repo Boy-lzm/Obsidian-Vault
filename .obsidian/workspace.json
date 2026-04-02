@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded_system/Flash.md",
+                "file": "Embedded_system/编译链接和运行.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flash"
+              "title": "编译链接和运行"
             }
           }
         ],
@@ -200,11 +200,19 @@
   },
   "active": "e508fd53fb4e2430",
   "lastOpenFiles": [
-    "Embedded_system/bootloader/上位机.md",
+    "Pasted image 20260401230840.png",
+    "Pasted image 20260401225119.png",
+    "Pasted image 20260401224903.png",
+    "Pasted image 20260401224424.png",
+    "Pasted image 20260401224403.png",
+    "Embedded_system/ARM体系架构.md",
+    "Embedded_system/编译链接和运行.md",
+    "Embedded_system/编译链接运行/未命名.md",
+    "Embedded_system/编译链接运行",
     "Embedded_system/Flash.md",
+    "Embedded_system/bootloader/上位机.md",
     "Embedded_system/bootloader/下位机.md",
     "Embedded_system/编译器指令.md",
-    "Embedded_system/ARM体系架构.md",
     "Embedded_system/bootloader",
     "Embedded_system/Bootloader.md",
     "Embedded_system/冯·诺依曼，哈弗和混合架构.md",
@@ -229,7 +237,6 @@
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
-    "嵌入式系统1",
-    "嵌入式系统 - 副本"
+    "嵌入式系统1"
   ]
 }
