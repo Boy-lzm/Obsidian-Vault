@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded_system/栈的管理.md",
+                "file": "Embedded_system/指令集变更.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "栈的管理"
+              "title": "指令集变更"
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "e508fd53fb4e2430",
   "lastOpenFiles": [
-    "Embedded_system/编译链接和运行.md",
     "Embedded_system/栈的管理.md",
+    "Embedded_system/指令集变更.md",
+    "Embedded_system/编译链接和运行.md",
     "Embedded_system/总线和地址.md",
     "Embedded_system/Flash.md",
     "Embedded_system/CMSIS标准.md",
