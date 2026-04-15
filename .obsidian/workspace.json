@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "b41e0ba9a05a0355",
+    "id": "fb6b6209d1fe45e4",
     "type": "split",
     "children": [
       {
-        "id": "d0555f59cb1849aa",
+        "id": "e61dd15b879912c1",
         "type": "tabs",
         "children": [
           {
-            "id": "37305f563b6fb20c",
+            "id": "df3669ce5098639f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded_system/CMSIS标准.md",
+                "file": "Embedded_system/编译优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMSIS标准"
-            }
-          },
-          {
-            "id": "e508fd53fb4e2430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded_system/指令集变更.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "指令集变更"
+              "title": "编译优化"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cec55e95ec5aacf9",
+    "id": "bd6b45154a18cb5f",
     "type": "split",
     "children": [
       {
-        "id": "ef424ba54305ccec",
+        "id": "2c8b4ab78f23400a",
         "type": "tabs",
         "children": [
           {
-            "id": "810943ad6385e2fb",
+            "id": "06f7ec9866924acc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "ea6a40a20d674857",
+            "id": "63d99c94327849b1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "3a373dd01cc22132",
+            "id": "1ebb1e452008796e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 200
   },
   "right": {
-    "id": "ff025e74a48ed39d",
+    "id": "509cf5bec5295ae1",
     "type": "split",
     "children": [
       {
-        "id": "115dc624703d06eb",
+        "id": "05d3cc023d1a0492",
         "type": "tabs",
         "children": [
           {
-            "id": "f7fdd03c89fd5967",
+            "id": "677a65eaff802798",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Embedded_system/中断处理流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "中断处理流程 的反向链接列表"
             }
           },
           {
-            "id": "37c02d240c52dfa2",
+            "id": "b1de3233077d31d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "Embedded_system/中断处理流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "中断处理流程 的出链列表"
             }
           },
           {
-            "id": "fc07abeae2a96534",
+            "id": "dec74000de31a1ef",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +137,7 @@
             }
           },
           {
-            "id": "13ff2904d20ba77e",
+            "id": "266a84ac482aadde",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,18 +151,18 @@
             }
           },
           {
-            "id": "32ed4a123de2b9ed",
+            "id": "1505543033cdfb07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "Embedded_system/中断处理流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "中断处理流程 的大纲"
             }
           }
         ]
@@ -189,55 +174,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "e508fd53fb4e2430",
+  "active": "df3669ce5098639f",
   "lastOpenFiles": [
-    "Embedded_system/栈的管理.md",
-    "Embedded_system/指令集变更.md",
-    "Embedded_system/编译链接和运行.md",
-    "Embedded_system/总线和地址.md",
-    "Embedded_system/Flash.md",
-    "Embedded_system/CMSIS标准.md",
-    "Embedded_system/ARM体系架构.md",
     "Embedded_system/冯·诺依曼，哈弗和混合架构.md",
+    "Embedded_system/中断处理流程.md",
+    "Embedded_system/编译优化.md",
     "Embedded_system/编译器指令.md",
-    "Pasted image 20260401230840.png",
-    "Pasted image 20260401225119.png",
-    "Pasted image 20260401224903.png",
-    "Pasted image 20260401224424.png",
-    "Pasted image 20260401224403.png",
-    "Embedded_system/编译链接运行/未命名.md",
-    "Embedded_system/编译链接运行",
+    "MCAL_LIN/LIN driver架构.md",
     "Embedded_system/bootloader/上位机.md",
-    "Embedded_system/bootloader/下位机.md",
-    "Embedded_system/bootloader",
-    "Embedded_system/Bootloader.md",
-    "Pasted image 20260324235741.png",
-    "Pasted image 20260324235706.png",
-    "Pasted image 20260324233517.png",
-    "Pasted image 20260324232623.png",
-    "Pasted image 20260324232155.png",
-    "README.md",
-    "未来发展.md",
-    "欢迎.md",
-    "未命名",
-    "未来发展规划/未命名.md",
-    "未来发展规划",
-    "Embedded_system/CMSIS/未命名.md",
-    "Embedded_system/CMSIS",
-    "test/未命名.md",
-    "test",
-    "未命名.base",
-    "未命名 1.base",
-    "未命名 2.base",
-    "嵌入式系统1"
+    "MCAL_LIN"
   ]
 }
